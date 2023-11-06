@@ -11,5 +11,7 @@ To conclude, I have learned under what policies and procedures an analyst must w
 Tableau Dashboard Link
 https://public.tableau.com/views/TableauGDPTop20Countries-2019/Dashboard2?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
+![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/17f4a483-0650-4b91-9411-b4f8e95aea19)
+
 
 
