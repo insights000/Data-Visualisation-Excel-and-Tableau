@@ -32,7 +32,7 @@ Admittedly I struggled with the initial first task of fitting 228 countries on a
 
 
 **
-**Figure 2: For a dataset like this, a heatmap would be an ideal option given that the visuals are solid and easy to recognise and the revenues listed clearly with each country in relation to a data legend.**
+**Figure 2: For a dataset like this, a heatmap would be an ideal option given that the visuals are solid and easy to recognise and the gross domestic product listed clearly with each country in relation to a data legend.**
 **
 
 **Creating a Tableau Dashboard for a Colour Blind Client**
