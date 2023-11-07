@@ -1,5 +1,5 @@
 **                                                                                           **WEALTH OF NATIONS: GROSS DOMESTIC PROFIT TOP 20 COUNTRIES
-                                                                                            EXPOLORATORY DATA ANALYSIS WITH MICROSOFT EXCEL AND TABLEAU**
+                                                                                              EXPLORATORY DATA ANALYSIS WITH MICROSOFT EXCEL AND TABLEAU**
 
 *                              ** ** ***Wealth of Nations 2019 Top 20 Countries Exploratory Data Cleaning, Analysis and Visualisation Dashboard Task for the Level 3 Data Technician Bootcamp Course******\****
 **
