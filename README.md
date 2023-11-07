@@ -1,5 +1,12 @@
 #  Wealth of Nations Gross Domestic Product Top 20 Countries Exploratory Data Analysis and Data-Visualisation-Excel-and-Tableau
 
+**Wealth of Nations 2019 Top 20 Countries Exploratory Data Cleaning, Analysis and Visualisation Dashboard Task**
+![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/5296974e-f9c6-4770-bd20-2b1c672c4ac2)
+
+
+
+
+
 ****Assignment Score: Distinction**                                                                               
                                                                                                                   
 This task was beneficial in helping me learn about the GDPR and Data Protection Act in accordance with how the government and the UK law requires data to be handled regarding organisations and companies. Furthermore, I learned about the policies and procedures of making sure that the data quality is fit for presentation in the manner of data quality, removal of errors and accessibility for all as seen by the third task where we were asked to create a visualisation for a colour-blind client. 
