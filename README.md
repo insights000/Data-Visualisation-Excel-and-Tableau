@@ -45,6 +45,8 @@ The final stage of the task put my Tableau skills to use. I was challenged to re
 This is the reason why the filters are all locked on the visual and I opted for more discrete information, splitting my dataset for closer analysis. I chose to analyse the Top 5 of the countries there and their percentages that made up the Top 5, to demonstrate which of the countries were producing the highest percentage of GDPs and the ranks. The bar chart meanwhile produced a general overview with clear data labels of each GDP and country name whilst the map focused on the 5 lowest earners there in the table, which again used the filter function there through the cards that I placed into the filter section there in the options with “Top” there. The final visualisation was a table, with the aggregation of the average GDP across the Top 20 countries there formatted in clear blue that matched and contrasted with red and grey overtones of the visualisation. In the future, I should like to improve the dynamic and interactivity concepts of the dashboard there and find creative methods to analyse and demonstrate visualisations with a limited dataset.
 To conclude, I have learned under what policies and procedures an analyst must work under when cleaning and formatting data as well as producing visualisations for clients, the challenges faced when deducing what kind of questions to ask from data and how I can improve upon that aspect and how to create visualisations that are accessible to all, including that with colour blindness in an easy to understand format.
 
+****Figure 3*** : Link to the dashboard
+
 Tableau Dashboard Link
 https://public.tableau.com/views/TableauGDPTop20Countries-2019/Dashboard2?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
