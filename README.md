@@ -1,4 +1,7 @@
 #  Wealth of Nations Gross Domestic Product Top 20 Countries Exploratory Data Analysis and Data-Visualisation-Excel-and-Tableau
+
+**Assignment Score: Distinction
+
 **Overview**
 This task was beneficial in helping me learn about the GDPR and Data Protection Act in accordance with how the government and the UK law requires data to be handled regarding organisations and companies. Furthermore, I learned about the policies and procedures of making sure that the data quality is fit for presentation in the manner of data quality, removal of errors and accessibility for all as seen by the third task where we were asked to create a visualisation for a colour-blind client. 
 During the second task some learning points would include applying and increasing my Excel skills of filtering and producing visualisation as well as being able to apply my understanding of Macros throughout the Just IT skills Data Technician Bootcamp and how to automate processes in Excel used in the “Save”, “Print”, and “Copy” section of the task there. 
@@ -6,12 +9,32 @@ Admittedly I struggled with the initial first task of fitting 228 countries on a
 
 **Data Cleansing in Excel**
 
+![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/e031e4f7-c3dd-4221-914e-9f65d4b80d69)
 
 
 
 
 
 
+Figure 1 : Taking the wealth of nations dataset for exploratory analysis, the first task was to scrub the data clean and filter it so that we have the information in the dataset that we want to work with, completed on Microsoft Excel, the task also involved us creating three automated macros for the data and a visual bar graph to show the Top 20 Highest ranking countries in GDP for the countries in 2019
+
+
+**Data Visualisation in Excel**
+
+
+![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/193f5eea-cdd5-4c13-9092-04e8a734426d)
+
+
+
+
+
+
+
+
+
+
+
+Figure 2: For a dataset like this, a heatmap would be an ideal option given that the visuals are solid and easy to recognise and the revenues listed clearly with each country in relation to a data legend.
 
 
 
