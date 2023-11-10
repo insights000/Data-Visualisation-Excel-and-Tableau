@@ -8,6 +8,7 @@
 ![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/5296974e-f9c6-4770-bd20-2b1c672c4ac2)
 
 
+
 **Assignment Grade Achieved :  DISTINCTION****
 
 **Data Practices**
@@ -26,6 +27,8 @@ This task was beneficial in helping me learn about the GDPR and Data Protection 
 ![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/e031e4f7-c3dd-4221-914e-9f65d4b80d69)
 
 
+
+
 **Figure 1 : Taking the wealth of nations dataset for exploratory analysis, the first task was to scrub the data clean and filter it so that we have the information in the dataset that we want to work with, completed on Microsoft Excel, the task also involved us creating three automated macros for the data and a visual bar graph to show the Top 20 Highest ranking countries in GDP for the countries in 2019**
 
 
@@ -37,10 +40,14 @@ This task was beneficial in helping me learn about the GDPR and Data Protection 
 
 
 
+
+
 **Data Visualisation in Excel**
 
 
 ![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/193f5eea-cdd5-4c13-9092-04e8a734426d)
+
+
 
 
 ****Figure 3**: For a dataset like this, a heatmap would be an ideal option given that the visuals are solid and easy to recognise and the gross domestic product listed clearly with each country in relation to a data legend.****
