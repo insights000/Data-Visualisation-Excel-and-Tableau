@@ -1,4 +1,4 @@
-**INSIGHT : WHAT ARE THE TOP 20 HIGHEST RANKING COUNTRIES IN GROSS DOMESTIC PRODUCT IN 2019?**
+**What are the Top 20 Countries with the Highest Ranking GDP in 2019?**
 
 **Wealth of Nations 2019 Top 20 Countries Exploratory Data Cleaning, Analysis and Visualisation Dashboard Task for the Level 3 Data Technician Bootcamp Course**
 
