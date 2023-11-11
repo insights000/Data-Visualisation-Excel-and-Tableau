@@ -29,6 +29,7 @@ This task was beneficial in helping me learn about the GDPR and Data Protection 
 
 
 
+
 **Figure 1 : Taking the wealth of nations dataset for exploratory analysis, the first task was to scrub the data clean and filter it so that we have the information in the dataset that we want to work with, completed on Microsoft Excel, the task also involved us creating three automated macros for the data and a visual bar graph to show the Top 20 Highest ranking countries in GDP for the countries in 2019**
 
 
@@ -37,7 +38,6 @@ This task was beneficial in helping me learn about the GDPR and Data Protection 
 **Figure 2 : Working with data requires a lot of tasks to be complete at a fast pace, solution? Use Macros, by adding functionality to the Excel Spreadsheet, I can now assign commands using the macros function to save, print or copy the file.**
 
 ![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/88dc21f0-95c5-4f99-b26e-8a1eb1c51cde)
-
 
 
 
