@@ -5,7 +5,7 @@
 
 
 
-![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/5296974e-f9c6-4770-bd20-2b1c672c4ac2)
+
 
 
 
@@ -24,8 +24,9 @@ This task was beneficial in helping me learn about the GDPR and Data Protection 
 
 **Data Cleaning**
 
-![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/e031e4f7-c3dd-4221-914e-9f65d4b80d69)
 
+
+![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/03c48364-bfd1-458b-8da3-265082710fa5)
 
 
 
@@ -37,16 +38,15 @@ This task was beneficial in helping me learn about the GDPR and Data Protection 
 
 **Figure 2 : Working with data requires a lot of tasks to be complete at a fast pace, solution? Use Macros, by adding functionality to the Excel Spreadsheet, I can now assign commands using the macros function to save, print or copy the file.**
 
-![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/88dc21f0-95c5-4f99-b26e-8a1eb1c51cde)
+![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/e52c3229-a150-47ea-864a-0342d09f7336)
+
 
 
 
 
 **Data Visualisation in Excel**
 
-
-![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/193f5eea-cdd5-4c13-9092-04e8a734426d)
-
+![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/4e5e86f7-22b5-4a17-a09e-03ccccd4bec7)
 
 
 
@@ -64,7 +64,7 @@ To conclude, I have learned under what policies and procedures an analyst must w
 Tableau Dashboard Link
 https://public.tableau.com/views/TableauGDPTop20Countries-2019/Dashboard2?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
-![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/17f4a483-0650-4b91-9411-b4f8e95aea19)
+
 
 
 
