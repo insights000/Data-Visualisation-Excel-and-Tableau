@@ -1,9 +1,11 @@
 **What are the Top 20 Countries with the Highest Ranking GDP in 2019?**
 
 
+![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/9e0c4813-8f38-41be-a0bd-ef4fbc61bf36)
+
+
+
 **Wealth of Nations 2019 Top 20 Countries Exploratory Data Cleaning, Analysis and Visualisation Dashboard Task for the Level 3 Data Technician Bootcamp Course**
-
-
 
 
 **Assignment Grade Achieved :  DISTINCTION****
