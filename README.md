@@ -1,7 +1,8 @@
 **What are the Top 20 Countries with the Highest Ranking GDP in 2019?**
 
 
-![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/9e0c4813-8f38-41be-a0bd-ef4fbc61bf36)
+![image](https://github.com/insights000/Data-Visualisation-Excel-and-Tableau/assets/150028138/b749b967-8fd0-4367-9cc7-e1b217715bc6)
+
 
 
 
